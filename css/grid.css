@@ -1,0 +1,21 @@
+.themed-grid-head-col {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  background-color: rgb(215, 185, 226);
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.themed-grid-col {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  background-color: rgb(211, 213, 214);
+
+  border: 1px solid rgb(231, 230, 230);
+}
+
+.themed-container {
+  padding: .75rem;
+  margin-bottom: 1.5rem;
+  background-color: rgb(244, 186, 173);
+  border: 1px solid rgb(170, 170, 170);
+}
